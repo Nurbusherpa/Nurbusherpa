@@ -11,3 +11,5 @@ Nurbusherpa/Nurbusherpa is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 https://github.com/Nurbusherpa/Nurbusherpa/tree/515925df6423ff581de6c964690e5d558b01d34c
+Facebook 
+Instagram 
